@@ -16,5 +16,7 @@ public class App {
         System.out.println( "Hola "+nuevo.getNombre());
     }
 
+    //Hola mundo desde mi la PC de Wilson Turpo
+
     
 }
